@@ -4,7 +4,7 @@
 
 Hi，我叫 Gavin，是一名前端工程师，现就职于联易融数字科技集团有限公司基础架构团队，主要负责物料体系、工程化方面的工作。
 
-目前居住在深圳，日常出没于[掘金](https://juejin.cn/user/1943592289184045)、[语雀](https://www.yuque.com/gongyz)。
+目前居住在深圳，日常出没于 [掘金](https://juejin.cn/user/1943592289184045)、[语雀](https://www.yuque.com/gongyz)。
 
 **Languages and Tools:**
 
