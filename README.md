@@ -1,22 +1,14 @@
-### Hi，我是 Gavin
+### Hi there 👋
 
-#### **社区主页** 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GYunZhi&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=ffffff&hide_title=true" />
 
+Hi，我叫 Gavin，是一名前端工程师，现就职于联易融数字科技集团有限公司基础架构团队，主要负责物料体系、工程化方面的工作。
 
+目前居住在深圳，日常出没于[掘金](https://juejin.cn/user/1943592289184045)、[语雀](https://www.yuque.com/gongyz)。
 
-[![](https://github-readme-stats.vercel.app/api?username=GYunZhi)](https://github.com/anuraghazra/github-readme-stats)
+**Languages and Tools:**
 
-
-
-
-## Hi，我是 Gavin. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=GYunZhi)
-
-<!-- Introduction -->
-
-- [掘金](https://juejin.cn/user/1943592289184045)
-- 公众号
-<img height="150" src="https://cdn.nlark.com/yuque/0/2021/jpeg/387995/1635757187464-d33d2f66-919b-4c39-a33e-05b416843f30.jpeg" />
-
-<!-- Github Stats -->
-
-![GYunZhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYunZhi&show_icons=true)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
